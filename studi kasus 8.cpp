@@ -2,7 +2,7 @@
 using namespace std;
 
 class data{
-	public:
+	public: 
 		void tabel();
 		void proses();
 		void output();
